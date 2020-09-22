@@ -1,0 +1,11 @@
+Job:
+  
+  tags:  
+  - shared-windows
+  - windows
+  - windows-1809
+
+  script:
+    - |
+      write-host "PowerShell Version Details:"
+      $PSVersiontable
