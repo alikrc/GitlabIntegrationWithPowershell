@@ -1,3 +1,3 @@
-# Netsparker Gitlab Integration Demo Powershell
+Gitlab Integration With Powershell
 
-Netsparker demo project for gitlab integration with powershell
+Project for gitlab integration with powershell
